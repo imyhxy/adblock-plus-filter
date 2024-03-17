@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: imyhxy
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/imyhxy/adblock-plus-filter
+! Licence: 
+!
+!-----------------------General advert blocking filters-----------------------!
+||zxzjhd.com/03.gif
+||zxzj.pro/03.gif
+leetcode.com##div[class="hidden items-center justify-center bg-white py-2.5 md:flex"]
+leetcode.com##div#navbar-root>div
+leetcode.com##div:has(> div > div > div > div.text-sm > span.opacity-70)
+realpython.com#?#div:-abp-has(> a:-abp-contains(Remove ads))
