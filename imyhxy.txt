@@ -11,3 +11,4 @@ leetcode.com##div[class="hidden items-center justify-center bg-white py-2.5 md:f
 leetcode.com##div#navbar-root>div
 leetcode.com##div:has(> div > div > div > div.text-sm > span.opacity-70)
 realpython.com#?#div:-abp-has(> a:-abp-contains(Remove ads))
+acwing.com##div#bullet-screen
