@@ -13,3 +13,9 @@ leetcode.com##div:has(> div > div > div > div.text-sm > span.opacity-70)
 realpython.com#?#div:-abp-has(> a:-abp-contains(Remove ads))
 acwing.com##div.cmt
 acwing.com##div.bullet-screen
+
+!https://www.reddit.com/r/Adblock/comments/1pmzaqd/comment/nu4m04t/
+youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
