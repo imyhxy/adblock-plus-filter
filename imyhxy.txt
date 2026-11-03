@@ -20,3 +20,4 @@ youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 bilibili.com##.adblock-tips
+||ab.chatgpt.com/v1/sdk_exception
